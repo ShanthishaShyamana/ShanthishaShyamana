@@ -27,17 +27,17 @@
 
 ## About Me  
 
-🎓 I’m a **3rd year undergraduate** at the **University of Moratuwa**,  
+#I’m a **3rd year undergraduate** at the **University of Moratuwa**,  
 studying **Computer Science and Engineering**, specializing in the **Data Science stream**.  
 
-💻 A passionate **Full-Stack Web Developer** who loves building scalable systems and user-friendly products.  
+#A passionate **Full-Stack Web Developer** who loves building scalable systems and user-friendly products.  
 
-🤖 Enthusiastic about **Artificial Intelligence (AI)** and **Machine Learning (ML)**,  
+# Enthusiastic about **Artificial Intelligence (AI)** and **Machine Learning (ML)**,  
 exploring how they can transform everyday applications.  
 
-🔗 Curious about **Blockchain** technologies and their potential for innovation.  
+# Curious about **Blockchain** technologies and their potential for innovation.  
 
-🌱 Currently sharpening my skills in **modern web frameworks**, **cloud-native development**,  
+# Currently sharpening my skills in **modern web frameworks**, **cloud-native development**,  
 and **practical AI/ML techniques**.  
 
 ---
