@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=4000&pause=600&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Shanthisha+Shyamana;Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Blockchain+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=4000&pause=600&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Shanthisha+Shyamana;Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Quick+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,9 +35,7 @@ studying Computer Science and Engineering, specializing in the Data Science stre
 - Enthusiastic about Artificial Intelligence (AI) and Machine Learning (ML),  
 exploring how they can transform everyday applications.  
 
-- Curious about Blockchain technologies and their potential for innovation.  
-
-- Currently sharpening my skills in modern web frameworks, cloud-native development,  
+- Currently sharpening my skills in modern web frameworks 
 and practical AI/ML techniques.  
 
 ---
