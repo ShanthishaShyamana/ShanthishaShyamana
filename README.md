@@ -1,8 +1,10 @@
-<!-- 👋 Profile README for Shanthisha Shyamana -->
+<!-- Header (blue gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Shanthisha%20Shyamana&fontSize=40&fontColor=ffffff&color=0:DBEAFE,25:60A5FA,50:2563EB,75:1D4ED8,100:1E3A8A" width="100%" alt="Header wave" />
+
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=4000&pause=600&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Shanthisha+Shyamana;Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Quick+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=4000&pause=600&color=1E90FF&center=true&vCenter=true&width=850&height=70&lines=Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Lifelong+Learner;Passionate+Programmer;Tech+Explorer;Problem+Solver;Data+Science+Enthusiast;Backend+%26+Frontend+Developer;" alt="Typing header" />
 </p>
 
 ---
@@ -47,21 +49,8 @@ and practical AI/ML techniques.
 </p>
 
 ---
+<!-- Footer (blue gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:DBEAFE,25:60A5FA,50:2563EB,75:1D4ED8,100:1E3A8A" width="100%" alt="Footer wave" />
 
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ⭐️ From [Shanthisha Shyamana](https://github.com/ShanthishaShyamana)
